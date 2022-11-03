@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD Kotlin</string>
+    <string name="label">Label</string>
+    <string name="status">status</string>
+    <string name="nama">nama</string>
+    <string name="nama_anda">Nama Anda</string>
+    <string name="str_umur">Umur</string>
+    <string name="alamat_anda">Alamat Anda</string>
+    <string name="save">Save</string>
+</resources>

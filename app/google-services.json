@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585058310890",
+    "project_id": "crud-kotlin-65655",
+    "storage_bucket": "crud-kotlin-65655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585058310890:android:f2ce6ab2eada45933e9593",
+        "android_client_info": {
+          "package_name": "com.aplikasi.crudkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585058310890-b8nb4fkrgjajfsvbmeckinpimmtlom5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWbCX_zOkrjNcQMRs_8na9Dp1imzd_wAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585058310890-b8nb4fkrgjajfsvbmeckinpimmtlom5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
